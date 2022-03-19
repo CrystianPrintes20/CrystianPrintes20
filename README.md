@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi👋, I'm Crystian!
 
-**CrystianPrintes20/CrystianPrintes20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-end develep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
